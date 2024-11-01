@@ -1,0 +1,413 @@
+﻿
+@{
+    ViewData["Title"] = "homePageCinema";
+    Layout = "~/Views/Shared/_LayoutCinema.cshtml";
+}
+
+<h1>homePageCinema</h1>
+
+<div id="main ">
+
+       @* slide *@
+
+<div id="slide-web" class="carousel slide  " data-bs-ride="carousel" style="margin-bottom: 35px;margin-top: 65px;">
+    <!-- Indicators/dots -->
+    <ul class="carousel-indicators">
+        <li data-bs-target="#slide-web" data-bs-slide-to="0" class="active"></;type=>
+        <li data-bs-target="#slide-web" data-bs-slide-to="1"></li></;type=>
+        <li data-bs-target="#slide-web" data-bs-slide-to="2"></li></;type=>
+        <li data-bs-target="#slide-web" data-bs-slide-to="3"></li></;type=>
+    </ul>
+    <!-- The slideshow/carousel -->
+    <div class="carousel-inner ">
+        <div class="carousel-item ">
+            <img src="../Layout/images/slide-1.jpg" alt="" class="d-block " style="width:100%">
+        </div>
+        <div class="carousel-item active">
+            <img src="../Layout/images/slide-2.jpg" alt="" class="d-block" style="width:100%">
+        </div>
+        <div class="carousel-item">
+            <img src="../Layout/images/tuan-le-phim-viet-uu-dai-kick-liet-1702-x-621-145659-201023-53.png" alt="" class="d-block" style="width:100%">
+        </div>
+        <div class="carousel-item">
+            <img src="../Layout/images/slide-5.png" alt="" class="d-block" style="width:100%">
+        </div>
+
+    </div>
+
+    <!-- Left and right controls/icons -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#slide-web" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next " type="button" data-bs-target="#slide-web" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+@* COMBO 2 NƯỚC 1 BỎNG
+            CHỈ 99K
+            TIN CHUẨN ĐÉTTT *@
+
+<div class="col-md-12 " style="margin-top: 60px;position: relative;">
+    <div class="col-md-2 col-2" style="position: absolute;transform: rotate(15deg);"><img src=../Layout/images/New Project1.jpg" alt="" class="img-fluid  "></div>
+    <div class="col-md-12 ">
+        <div class="col-md-1 col-2" style="margin-left: 85%;position: absolute;transform: rotate(15deg)"><img src=../Layout/images/New Project5.jpg" alt="" class="img-fluid  "></div>
+        <div class="col-md-12 ">
+
+            <h1 class="text-center">
+                COMBO 2 NƯỚC 1 BỎNG
+                <br><span style="color: #a91111;">CHỈ 99K</span>  <br>
+                TIN CHUẨN ĐÉTTT
+            </h1>
+            <div class="col-md-5 text-center mx-auto mb-5" style="text-align: justify;">
+                <p style="font-size: 11px;">Chương trình áp dụng từ ngày 11/10/2023 đến 11/11-2023 cho tất cả các khách hàng mới đăng kí và mua vé trực tuyến trên ứng dụng điện thoại của <span>CineFilm</span> còn chần chừ gì nữa mà không mua ngay</p>
+                <button class="buy-btn1 mt-5">
+                    MUA VÉ NGAY
+                </button>
+            </div>
+            <div class="col-md-12 text-center pb-5 pt-3">
+                <i class="ti-angle-double-right mx-3 text-info"></i>
+                <i class="ti-angle-double-left mx-3 text-info"></i>
+            </div>
+        </div>
+        <div class="col-md-1 col-2 " style="position: absolute;transform: rotate(-30deg);margin-left: 80%; z-index: 1;margin-top: -10%;"><img src=../Layout/images/New Project.jpg" alt="" class="img-fluid rounded-4  border border-black"></div>
+        <div class="col-md-1 col-2 " style="position: absolute;transform: rotate(-30deg);margin-left: 20%; z-index: 1;margin-top: -10%;"><img src=../Layout/images/New Project3.jpg" alt="" class="img-fluid rounded-4  border border-black"></div>
+    </div>
+</div>
+ 
+
+       @* ddang chieu sap chieu *@
+ 
+
+<div class="container-fluid mt-5">
+    <div class="container">
+
+        <!-- Nav tabs -->
+        <div class="nav justify-content-center nav-underline bg-white rounded-4 nav-tab-bg">
+            <div class="nav-item dang-chieu pb-2">
+                <a class="nav-link active p-0" data-bs-target="#menu-dang-chieu" data-bs-toggle="tab"><h2 class="">Phim đang chiếu</h2></a>
+            </div>
+            <div class="nav-item sap-chieu pb-2 ">
+                <a class="nav-link p-0" data-bs-toggle="tab" data-bs-target="#menu-sap-chieu"><h2 class="">Phim sắp chiếu</h2></a>
+            </div>
+        </div>
+        <!-- Tab panes -->
+        <div class="tab-content tab">
+            <div class="tab-pane container active" id="menu-dang-chieu">
+                <!-- card -->
+                <div class="row ">
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto">
+                            <div class="card bg-light">
+                                <a href="film-info.html"><img class="card-img-top " src="../Layout/images//anh-film.png" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Thanh Gươm Trừ Tà</a> </h5>
+
+                                    <p>
+                                        <b>Thể loại:</b>  hài hước, kinh dị <br>
+                                        <b>Thời lượng: </b> 98 phút <br>
+                                        <b>Trạng thái: </b> <i>còn vé</i>
+                                    </p>
+                                    <a href="film-info.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <a href="quyam-film.html"><img class="card-img-top " src="../Layout/images//quyam-film.jpg" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Quỷ Ám: Tín Đồ</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> kinh dị <br>
+                                        <b>Thời lượng: </b> 111 phút <br>
+                                        <b>Trạng thái: </b> <i>còn vé</i>
+                                    </p>
+                                    <a href="quyam-film.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <a href="kekientao-film.html"><img class="card-img-top " src="../Layout/images//kekientao-film.jpg" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Kẻ Kiến Tạo</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hành động<br>
+                                        <b>Thời lượng: </b> 133 phút <br>
+                                        <b>Trạng thái: </b> <i>hết vé</i>
+                                    </p>
+                                    <a href="kekientao-film.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light ">
+                                <a href="giaolo8675.html"><img class="card-img-top " src="../Layout/images//giaolo-film.png" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Giao Lộ 8675</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hài hước <br>
+                                        <b>Thời lượng: </b> 107 phút <br>
+                                        <b>Trạng thái: </b> <i>còn vé</i>
+                                    </p>
+                                    <a href="giaolo8675.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row ">
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <a href="kisibongdem.html"> <img class="card-img-top " src="../Layout/images//kisibongdem-film.png" alt="Card image"></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Kị Sĩ Bóng Đêm</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hành động<br>
+                                        <b>Thời lượng: </b> 152 phút <br>
+                                        <b>Trạng thái: </b> <i>hết vé</i>
+                                    </p>
+                                    <a href="kisibongdem.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <a href="mongdu.html"><img class="card-img-top " src="../Layout/images//mongdu-film.png" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Mộng Du</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> kinh dị, tâm lý <br>
+                                        <b>Thời lượng: </b> 94 phút <br>
+                                        <b>Trạng thái: </b> <i>còn vé</i>
+                                    </p>
+                                    <a href="mongdu.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <a href="bietdoidanhthue.html"><img class="card-img-top " src="../Layout/images//bietdoidanhthue-film.png" alt="Card image" "></a>
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Biệt Đội Đánh Thuê 4</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hành động <br>
+                                        <b>Thời lượng: </b> 103 phút <br>
+                                        <b>Trạng thái: </b> <i>hết vé</i>
+                                    </p>
+                                    <a href="bietdoidanhthue.html" class="btn btn-danger text-white col-md-12 buy-btn">Mua vé</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="tab-pane container fade" id="menu-sap-chieu">
+                <div class="row">
+                    <div class="col-md-3 mt-5">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <img class="card-img-top " src="../Layout/images//cumayantien-film.jpg" alt="Card image" ">
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Cú Máy Ăn Tiền</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> tâm lý, hài hước <br>
+                                        <b>Thời lượng: </b> 132 phút <br>
+                                        <b>Lịch chiếu: </b> <i>13/10/2023</i>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <img class="card-img-top " src="../Layout/images//thanhphongugat-film.png" alt="Card image" ">
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Thành Phố Ngủ Gật</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hồi hộp, tội phạm <br>
+                                        <b>Thời lượng: </b> 73 phút <br>
+                                        <b>Lịch chiếu:</b> <i>16/10/2023</i>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <img class="card-img-top " src="../Layout/images//vangtrangmau-film.png" alt="Card image" ">
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Vầng Trăng Máu</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> tâm lý, tội phạm <br>
+                                        <b>Thời lượng: </b> 206 phút <br>
+                                        <b>Lịch chiếu: </b> <i>15/10/2023</i>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <img class="card-img-top " src="../Layout/images//marvel.jpg" alt="Card image" ">
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Biệt Đội Marvel</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> hành động <br>
+                                        <b>Thời lượng: </b> 100 phút <br>
+                                        <b>Lịch chiếu: </b> <i>17/10/2023</i>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-3 mt-5 ">
+                        <div class="col-md-11" style="margin: 0 auto;">
+                            <div class="card bg-light">
+                                <img class="card-img-top " src="../Layout/images//namddemkinhhoang-film.png" alt="Card image" ">
+                                <div class="card-body ">
+                                    <h5><a href="#" class="title-film card-link text-danger text-decoration-none">Đêm Kinh Hoàng</a> </h5>
+                                    <p>
+                                        <b>Thể loại:</b> kinh dị, hồi hộp<br>
+                                        <b>Thời lượng: </b> 180 phút <br>
+                                        <b>Trạng thái: </b> <i>19/10/2023</i>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+           
+
+
+     @*  review *@
+
+
+<div class="row pb-5 col-md-12">
+    <div class="col-md-7 ">
+        <div class="col-md-12 mt-5">
+            <h4 class="  p-2 mx-5 col-md-4 text-white" style="border-bottom: 3px solid #a91111;">Ghiền Review</h4>
+            <div class="col-md-12 row mt-4 mx-5">
+                <div class="col-md-3 ">
+                    <img src="../Layout/images//baiviet1.jpg" alt="" class="img-fluid rounded border border-1">
+                </div>
+                <div class="col-md-8" style="font-size: 13px;">
+                    <p class="mb-1"><a href="" class="text-decoration-none text-white " style="font-size: 15px;font-weight: 700;">Review Thanh Gươm Trừ Tà - Khi Thầy Cúng Dởm Hóa Chuyên Gia Diệt Quỷ</a></p>
+                    <p class="mb-1">
+                        <a href="" class="text-decoration-none text-white">Review film </a>
+                        <a href="" class="text-decoration-none text-white">· W2W Movie·</a>
+                        <span>3 giờ trước</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 row mt-4 mx-5">
+            <div class="col-md-3 m-0">
+                <img src="../Layout/images//bietdoi-review.jpg" alt="" class="img-fluid rounded border border-1">
+            </div>
+            <div class="col-md-8" style="font-size: 13px;">
+                <p class="mb-1"><a href="" class="text-decoration-none text-white" style="font-size: 15px;font-weight: 700;">Review Biệt Đội Đánh Thuê 4 - Khi ANH HÓI Gánh Còng Lưng BIỆT ĐỘI ĐÁNH THUÊ</a></p>
+                <p class="mb-1">
+                    <a href="" class="text-decoration-none text-white">Riview phim </a>
+                    <a href="" class="text-decoration-none text-white">· Bố Bỉm Sửa Review ·</a>
+                    <span>5 giờ trước</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-12 row mt-4 mx-5">
+            <div class="col-md-3 m-0">
+                <img src="../Layout/images//giaolo-review.jpg" alt="" class="img-fluid rounded border boder-1">
+            </div>
+            <div class="col-md-8" style="font-size: 13px;">
+                <p class="mb-1"><a href="" class="text-decoration-none text-white" style="font-size: 15px;font-weight: 700;">Review Giao Lộ 8675 - Màn So Găng Nghẹt Thở Bắt Đầu</a></p>
+                <p class="mb-1">
+                    <a href="" class="text-decoration-none text-white">Review phim </a>
+                    <a href="" class="text-decoration-none text-white">· Dưa leo review ·</a>
+                    <span>9 giờ trước</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-12 row mt-4 mx-5">
+            <div class="col-md-3 m-0">
+                <img src="../Layout/images//kekientao-review.jpg" alt="" class="img-fluid rounded border boder-1">
+            </div>
+            <div class="col-md-8" style="font-size: 13px;">
+                <p class="mb-1"><a href="" class="text-decoration-none text-white " style="font-size: 15px;font-weight: 700;">Review Kẻ Kiến Tạo - Bản Trường Ca Hùng Vĩ</a></p>
+                <p class="mb-1">
+                    <a href="" class="text-decoration-none text-white">Review phim </a>
+                    <a href="" class="text-decoration-none text-white">· Dưa leo review ·</a>
+                    <span>12 giờ trước</span>
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-12 row mt-4 mx-5 ">
+            <div class="col-md-3 m-0">
+                <img src="../Layout/images//quyam-review.jpg" alt="" class="img-fluid rounded border boder-1">
+            </div>
+            <div class="col-md-8" style="font-size: 13px;">
+                <p class="mb-1"><a href="" class="text-decoration-none text-white" style="font-size: 15px;font-weight: 700;">Review Quỷ Ám: Tín Đồ - Nỗi khiếp sợ quay trở lại</a></p>
+                <p class="mb-1">
+                    <a href="" class="text-decoration-none text-white">Review phim </a>
+                    <a href="" class="text-decoration-none text-white">· MọtReview ·</a>
+                    <span>12 giờ trước</span>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-5 mt-5 p">
+        <h4 class="  p-2  col-md-3 text-white" style="border-bottom: 3px solid #a91111;">Tin Tức</h4>
+        <div class="col-md-12 mt-4 row">
+            <div class="col-md-4">
+                <img src="../Layout/images//tintuc-2.jpeg" alt="" class="img-fluid rounded border border-1" style="height: 140px;">
+            </div>
+            <div class="col-md-8">
+                <a href="" class="text-white text-decoration-none" style="font-weight: 800;">Trấn Thành lại gây tranh luận vì vai Bác Ba Phi 'Đất rừng Phương Nam'!</a>
+                <p style="font-size: 13px;" class="mt-2">Bộ phim "Đất Rừng Phương Nam" của đạo diễn Nguyễn Quang Dũng hiện vẫn đối mặt với nhiều tranh cãi, nhất là về nhân vật bác Ba Phi do Trấn Thành thủ vai.</p>
+            </div>
+        </div>
+        <div class="col-md-12 mt-4 row">
+            <div class="col-md-4">
+                <img src="../Layout/images//phimthanhguomtrutakangdongwon3-16961754809381524048076.webp" alt="" class="img-fluid rounded border border-1" style="height: 140px;">
+            </div>
+            <div class="col-md-8">
+                <a href="" class="text-white text-decoration-none" style="font-weight: 800;">Thanh Gươm Trừ Tà nhận được nhiều phản hồi tích cực từ người xem.</a>
+                <p style="font-size: 13px;" class="mt-2">Phim điện ảnh Thanh gươm trừ tà (tựa gốc: Dr. Cheon And The Lost Talisman) có chuỗi 4 ngày liên tiếp trụ vững ở vị trí đầu tiên tại bảng xếp hạng phòng vé Hàn Quốc.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>

@@ -1,0 +1,41 @@
+.nav-link {
+    color: #fff !important;
+    background: url(./asset/img/ribon_left.png) no-repeat scroll left center #e3dada;
+    text-align: center;
+    margin-bottom: 5px;
+    height: 30px;
+    padding: 5px;
+    width: 90%;
+    height: 40px;
+    line-height: 35px;
+    /* font-weight: bold; */
+}
+.nav-item {
+    list-style:  none;
+}
+.head-title{
+    background-color: black;
+    color: #fff;
+    line-height: 34px;
+    text-align: center;
+}
+.avt img{
+    border: 2px solid #676565;
+    border-radius: 80px;
+    width: 120px;
+    height: 120px;
+}
+#btn{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+label{
+    font-weight: 600;
+}
+em{
+    color: red;
+}
+.btn{
+         margin-left: 300px;
+}

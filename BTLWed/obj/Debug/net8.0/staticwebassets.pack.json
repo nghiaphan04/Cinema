@@ -1,0 +1,2189 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTLWed.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTLWed.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\base.css",
+      "PackagePath": "staticwebassets\\Layout\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\design.js",
+      "PackagePath": "staticwebassets\\Layout\\design.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\CHEON_STI-MKT-01-2-lớn.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\CHEON_STI-MKT-01-2-lớn.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\New Project 6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\New Project 6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\New Project.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\New Project.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\New Project1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\New Project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\New Project3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\New Project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\New Project5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\New Project5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\Untitled_logo_3_free-file.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\Untitled_logo_3_free-file.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\anh-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\anh2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\baiviet1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\baiviet1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\bg-bapbo.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bg-bapbo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\bietdoi-review.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bietdoi-review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\bietdoidanhthue-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bietdoidanhthue-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\buocchanthep-rapthanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\buocchanthep-rapthanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\cangwondo-img.heic",
+      "PackagePath": "staticwebassets\\Layout\\images\\cangwondo-img.heic"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\cangwondo-img.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\cangwondo-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\coca.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\coca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\cumayantien-film.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\cumayantien-film.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\danhthue-rap.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\danhthue-rap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\datrungphuongnam-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\datrungphuongnam-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\datrungphuongnam-preview.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\datrungphuongnam-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\datrungphuongnam-rap.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\datrungphuongnam-rap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\datrungphuongnam-tintuc.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\datrungphuongnam-tintuc.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\dexuat-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\dexuat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\dẽuat-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\dẽuat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\film1.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\film1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\film2.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\film2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\giaolo-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\giaolo-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\giaolo-review.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\giaolo-review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\gulogo-6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\gulogo-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\hinh-nen-cute-cho-may-tinh-011.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\hinh-nen-cute-cho-may-tinh-011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\hondaokibi.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\hondaokibi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\i4-film.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\i4-film.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\img-bg.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\img-pro1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\img-pro1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\istockphoto-1386512673-612x612.webp",
+      "PackagePath": "staticwebassets\\Layout\\images\\istockphoto-1386512673-612x612.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\istockphoto-1478374885-612x612.webp",
+      "PackagePath": "staticwebassets\\Layout\\images\\istockphoto-1478374885-612x612.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\jisso-img.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\jisso-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\jisso.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\jisso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\jissoimg.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\jissoimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kekientao-film.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\kekientao-film.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kekientao-rap.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\kekientao-rap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kekientao-review.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\kekientao-review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kisibongdem-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\kisibongdem-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kumathong-rapthanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\kumathong-rapthanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\kumathong-review.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\kumathong-review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\landscape-1328858_1280.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\landscape-1328858_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\lazyload.gif",
+      "PackagePath": "staticwebassets\\Layout\\images\\lazyload.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\list1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\list1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\logo2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\logo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\marvel.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\marvel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\mongdu-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\mongdu-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\muonkiepnhaduyen-thanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\muonkiepnhaduyen-thanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\namddemkinhhoang-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\namddemkinhhoang-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\phim_thanh_xuan_1.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\phim_thanh_xuan_1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\phimthanhguomtrutakangdongwon12-16961754807441716781666.webp",
+      "PackagePath": "staticwebassets\\Layout\\images\\phimthanhguomtrutakangdongwon12-16961754807441716781666.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\phimthanhguomtrutakangdongwon3-16961754809381524048076.webp",
+      "PackagePath": "staticwebassets\\Layout\\images\\phimthanhguomtrutakangdongwon3-16961754809381524048076.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\phonganquydu-rapthanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\phonganquydu-rapthanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\profile-user.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\profile-user.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\quyam-film.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\quyam-film.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\quyam-review.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\quyam-review.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\quyam_rapthanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\quyam_rapthanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\rap1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\rap1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\slide-5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\slide-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\thanh_guom_rap_ha_noi.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\thanh_guom_rap_ha_noi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\thanhphongugat-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\thanhphongugat-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\thanhphongugat-thanhxuan.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\thanhphongugat-thanhxuan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\tintuc-2.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc-2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\tintuc1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\tuan-le-phim-viet-uu-dai-kick-liet-1702-x-621-145659-201023-53.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tuan-le-phim-viet-uu-dai-kick-liet-1702-x-621-145659-201023-53.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\vangtrangmau-film.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\vangtrangmau-film.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\images\\vangtrangmau-thanhxuan.jpeg",
+      "PackagePath": "staticwebassets\\Layout\\images\\vangtrangmau-thanhxuan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\395764982_6742115422544623_1046237481553494292_n.mp4",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\395764982_6742115422544623_1046237481553494292_n.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh4.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anh8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anh8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\anhto.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\anhto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\bongnuo1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\bongnuo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\bongnuoc2.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\bongnuoc2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\bongnuoc3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\bongnuoc3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\bongnuoc4.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\bongnuoc4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\bongnuoc5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\bongnuoc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ghe.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ghe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ghe_da_bán.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ghe_da_bán.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ghe_trống.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ghe_trống.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ghế_đang_chọn.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ghế_đang_chọn.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ic-screen.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ic-screen.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\icon-profile.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\icon-profile.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\lich.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\lich.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\mkbank1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\mkbank1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\momo.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\momo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ribon_left.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ribon_left.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\ribon_left_1.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\ribon_left_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\shopeePay.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\shopeePay.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintc-5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintc-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintuc-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintuc-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintuc-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintuc1.png",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintuc1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\tintuc2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\tintuc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\vietcombank.jpg",
+      "PackagePath": "staticwebassets\\Layout\\img_TinTuc\\vietcombank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\lichChieu.js",
+      "PackagePath": "staticwebassets\\Layout\\lichChieu.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\lichchieu.css",
+      "PackagePath": "staticwebassets\\Layout\\lichchieu.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\main_web.css",
+      "PackagePath": "staticwebassets\\Layout\\main_web.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\Italic.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\Italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\agenda.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\agenda.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\alarm-clock.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\alarm-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\alert.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\alert.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\align-center.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\align-justify.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\align-justify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\align-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\align-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\anchor.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\anchor.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\android.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-double-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-double-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-double-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-double-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\angle-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\angle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\announcement.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\announcement.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\apple.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\archive.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\archive.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-top-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-top-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-top-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-top-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrow.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrows-corner.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrows-corner.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrows-horizontal.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrows-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\arrows-vertical.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\arrows-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\back-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\back-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\back-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\back-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bag.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bar-chart-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bar-chart-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bar-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\basketball.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\basketball.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bell.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\blackboard.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\blackboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bolt-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bolt-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bolt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bolt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\book.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bookmark-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bookmark-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\bookmark.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\briefcase.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\brush-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\brush-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\brush.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\brush.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\calendar.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\camera.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\car.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\car.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\check-box.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\check-box.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\check.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\clip.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\clip.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\clipboard.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\close.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\cloud-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\cloud-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\cloud.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\comment-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\comment-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\comment.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\comment.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\comments-smiley.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\comments-smiley.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\comments.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\comments.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-backward.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-backward.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-eject.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-eject.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-forward.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-forward.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-pause.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-pause.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-play.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-record.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-record.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-shuffle.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-shuffle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-skip-backward.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-skip-backward.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-skip-forward.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-skip-forward.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\control-stop.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\control-stop.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\credit-card.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\crown.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\crown.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\css3.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\css3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\cup.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\cup.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\cut.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\cut.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\dashboard.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\desktop.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\desktop.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\direction-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\direction-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\direction.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\direction.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\dribbble.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\dropbox-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\dropbox-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\dropbox.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\drupal.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\drupal.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\email.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\envelope.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\envelope.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\eraser.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\eraser.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\exchange-vertical.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\exchange-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\export.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\export.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\eye.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\eye.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\face-sad.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\face-sad.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\face-smile.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\face-smile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\facebook.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\file.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\file.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\files.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\files.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\filter.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\filter.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\flag-alt-2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\flag-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\flag-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\flag-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\flag.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\flag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\flickr-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\flickr-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\flickr.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\flickr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\fullscreen.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\gallery.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\gallery.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\game.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\game.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\gift.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\gift.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\github.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\google.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-drag.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-drag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-open.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-open.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-point-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-point-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-point-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-point-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-point-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-point-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-point-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-point-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hand-stop.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hand-stop.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\harddrive.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\harddrive.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\harddrives.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\harddrives.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\headphone-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\headphone-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\headphone.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\heart-broken.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\heart-broken.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\heart.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\help-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\help-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\help.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\help.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\home.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\html5.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\html5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\hummer.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\hummer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\id-badge.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\id-badge.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\image.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\import.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\import.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\infinite.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\infinite.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\info-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\info-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\info.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\info.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ink-pen.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ink-pen.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\instagram.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\joomla.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\joomla.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\jsfiddle.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\jsfiddle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\key.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\key.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layers-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layers-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layers.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layers.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-accordion-list.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-accordion-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-accordion-merged.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-accordion-merged.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-accordion-separated.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-accordion-separated.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column2-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column2-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column3-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column3.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column4-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column4-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-column4.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-column4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-cta-btn-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-cta-btn-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-cta-btn-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-cta-btn-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-cta-center.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-cta-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-cta-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-cta-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-cta-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-cta-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid2-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid2-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid2-thumb.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid2-thumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid3-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid3.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid4-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid4-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-grid4.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-grid4.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-line-solid.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-line-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-list-large-image.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-list-large-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-list-post.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-list-post.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-list-thumb-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-list-thumb-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-list-thumb.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-list-thumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-center-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-center-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-center.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-left-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-left-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-overlay-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-overlay-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-overlay.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-right-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-right-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-media-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-media-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-menu-full.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-menu-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-menu-separated.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-menu-separated.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-menu-v.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-menu-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-menu.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-placeholder.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-sidebar-2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-sidebar-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-sidebar-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-sidebar-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-sidebar-none.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-sidebar-none.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-sidebar-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-sidebar-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-slider-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-slider-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-slider.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-slider.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-tab-min.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-tab-min.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-tab-v.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-tab-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-tab-window.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-tab-window.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-tab.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-width-default-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-width-default-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-width-default.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-width-default.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout-width-full.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout-width-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\layout.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\layout.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\light-bulb.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\light-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\line-dashed.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\line-dashed.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\line-dotted.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\line-dotted.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\line-double.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\line-double.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\link.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\link.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\linkedin.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\linkedin.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\linux.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\linux.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\list-ol.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\list-ol.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\list.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\list.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\location-arrow.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\location-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\location-pin.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\location-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\lock.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\lock.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\loop.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\loop.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\magnet.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\magnet.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\map-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\map-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\map.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\map.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\marker-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\marker-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\marker.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\medall-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\medall-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\medall.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\medall.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\menu-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\menu-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\menu.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\microphone-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\microphone-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\microphone.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\microsoft-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\microsoft-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\microsoft.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\minus.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\minus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\mobile.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\mobile.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\money.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\money.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\more-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\more-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\more.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\more.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\mouse-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\mouse-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\mouse.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\mouse.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\music-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\music-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\na.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\new-window.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\new-window.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\notepad.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\notepad.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\package.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\package.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\paint-bucket.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\paint-bucket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\paint-roller.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\paint-roller.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\palette.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\palette.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\panel.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\panel.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\paragraph.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\paragraph.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pencil-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pencil-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pencil-alt2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pencil-alt2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pencil.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pin-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pin-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pin.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pin2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pin2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pinterest-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pinterest-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pinterest.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\plug.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\plug.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\plus.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\power-off.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\power-off.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\printer.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\printer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\pulse.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\pulse.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\quote-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\quote-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\quote-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\quote-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\receipt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\reddit.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\reddit.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\reload.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\reload.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\rocket.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\rss-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\rss-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\rss.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\rss.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ruler-alt-2.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ruler-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ruler-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ruler-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ruler-pencil.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ruler-pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ruler.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ruler.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\save-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\save-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\save.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\save.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\search.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\server.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\server.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\share-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\share-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\share.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\share.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\sharethis-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\sharethis-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\sharethis.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\sharethis.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shield.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shield.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shift-left-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shift-left-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shift-left.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shift-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shift-right-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shift-right-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shift-right.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shift-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shine.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shine.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shopping-cart-full.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shopping-cart-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\shortcode.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\shortcode.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\signal.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\signal.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\skype.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\skype.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\slice.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\slice.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\smallcap.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\smallcap.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\soundcloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\split-h.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\split-h.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\split-v-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\split-v-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\split-v.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\split-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\spray.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\spray.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\stack-overflow.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\stack-overflow.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\stamp.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\stamp.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\star.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\stats-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\stats-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\stats-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\stats-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\support.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\tablet.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\tag.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\tag.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\target.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\target.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\text.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\text.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\themify-favicon-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\themify-favicon-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\themify-favicon.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\themify-favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\themify-logo.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\themify-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\thought.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\thought.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\thumb-down.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\thumb-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\thumb-up.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\thumb-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\ticket.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\ticket.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\time.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\time.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\timer.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\timer.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\trash.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\trash.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\trello.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\trello.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\truck.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\tumblr-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\tumblr-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\tumblr.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\tumblr.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\twitter-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\twitter-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\twitter.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\underline.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\underline.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\unlink.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\unlink.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\unlock.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\upload.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\uppercase.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\uppercase.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\user.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\vector.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\video-camera.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\video-camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\video-clapper.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\video-clapper.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\view-grid.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\view-grid.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\view-list-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\view-list-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\view-list.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\view-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\vimeo-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\vimeo-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\vimeo.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\vimeo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\volume.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\volume.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\wallet.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\wand.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\wand.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\wheelchair.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\wheelchair.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\widget-alt.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\widget-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\widget.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\widget.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\widgetized.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\widgetized.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\window.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\window.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\wordpress.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\wordpress.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\world.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\world.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\write.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\write.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\yahoo.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\yahoo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\youtube.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\zip.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\SVG\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\index.html",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Layout\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\Layout\\tin_tuc.css",
+      "PackagePath": "staticwebassets\\Layout\\tin_tuc.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\BTLWed\\BTLWed\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTLWed.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTLWed.props",
+      "PackagePath": "build\\BTLWed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLWed.props",
+      "PackagePath": "buildMultiTargeting\\BTLWed.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTLWed.props",
+      "PackagePath": "buildTransitive\\BTLWed.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
