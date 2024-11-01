@@ -1,72 +1,88 @@
-﻿<div class="header">
-    <div class="row bg-black fixed-top" style="border-bottom: 1px solid #fff;">
-        <div class="col-md-2">
-            <div class="col-md-10"><img src="../Layout/images/Untitled_logo_3_free-file.jpg" alt="" class="img-fluid"></div>
-        </div>
-        <div class="col-md-7 nav ">
-            <ul class="navbar-header col-md-11  my-auto" style="margin-left: 12%;">
-                <li class="py-1"><a asp-controller="Home" asp-action="homePageCinema" class="text-danger ">Trang chủ</a></li>
-                <li class="py-1 nav-location py-2" style="font-size: 17px;">
-                    Danh sách rạp
-                    <i class="ti-angle-down " style="font-size: 12px;margin-left: 2px;position: relative;"></i>
+﻿<div class="header p-0">
+    <nav class="navbar navbar-expand-md  navbar-dark bg-black fixed-top">
+        <div class="container-fluid p-0 ">
+            <!-- Logo -->
+            <a class="navbar-brand" href="#">
+                <img src="../Layout/images/Untitled_logo_3_free-file.jpg" alt="Logo" class="img-fluid" style="height: 50px;">
+            </a>
 
-                    <ul class="location-list bg-white text-black ">
-                       
-                        <li class="text-start px-3 py-2"><a href="./location-page.html" class="text-black">Cinex Thanh Xuân</a></li>
-                        <li class="text-start px-3 py-2"> <a href="./location-page.html" class="text-black">Cinex Mỹ Đình</a></li>
-                        <li class="text-start px-3 py-2"> <a href="./location-page.html" class="text-black">Cinex Cầu Giấy</a></li>
-                        <li class="text-start px-3 py-2"><a href="./location-page.html" class="text-black">Cinex Hai Bà Trưng</a></li>
-                        <li class="text-start px-3 py-2"> <a href="./location-page.html" class="text-black">Cinex Hoàn Kiếm</a> </li>
-                        
+            <!-- Toggle button for mobile view -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse row" id="navbarContent">
+                <div class=" mb-2 mx-auto col-md-8">
+                    <ul class="navbar-nav float-lg-end">
+                        <li class="nav-item">
+                            <a class="nav-link text-danger" asp-controller="Home" asp-action="homePageCinema">Trang chủ</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="cinemaDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Danh sách rạp
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="cinemaDropdown">
+                                <li><a class="dropdown-item" href="./location-page.html">Cinex Thanh Xuân</a></li>
+                                <li><a class="dropdown-item" href="./location-page.html">Cinex Mỹ Đình</a></li>
+                                <li><a class="dropdown-item" href="./location-page.html">Cinex Cầu Giấy</a></li>
+                                <li><a class="dropdown-item" href="./location-page.html">Cinex Hai Bà Trưng</a></li>
+                                <li><a class="dropdown-item" href="./location-page.html">Cinex Hoàn Kiếm</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="pageLichChieu">Lịch chiếu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="pageTinTuc">Tin Tức</a>
+                        </li>
                     </ul>
-                </li>
-                <li class="py-1">
-                    <a asp-controller="Home" asp-action="pageLichChieu">Lịch chiếu</a>
-                </li>
+                </div>
+                
+                <div class="col-md-4 p-0 row d-flex justify-content-center align-content-center">
+                    <div class="col-md-7 col-lg-7 col-sm-7 col-7 me-3">
+                    
+                        <form class="form-header m-auto my-3 rounded-5">
+                            <label for="search">
+                                <input required="" autocomplete="off" placeholder="Tìm kiếm" id="search" type="text">
+                                <div class="icon" style=" position: absolute;
+                                        left: var(--padding);
+                                        transition: 0.3s cubic-bezier(.4,0,.2,1);
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;">
+                                    <svg stroke-width="2" stroke="currentColor" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="swap-on">
+                                        <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-linejoin="round" stroke-linecap="round"></path>
+                                    </svg>
+                                    <svg stroke-width="2" stroke="currentColor" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="swap-off">
+                                        <path d="M10 19l-7-7m0 0l7-7m-7 7h18" stroke-linejoin="round" stroke-linecap="round"></path>
+                                    </svg>
+                                </div>
+                                <button type="reset" class="close-btn">
+                                    <svg viewBox="0 0 20 20" class="h-5 w-5" xmlns="http://www.w3.org/2000/svg">
+                                        <path clip-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" fill-rule="evenodd"></path>
+                                    </svg>
+                                </button>
+                            </label>
+                        </form>
+                    
+                </div>
+                <!-- Profile dropdown -->
+                   <div class="dropdown col-md-2 col-lg-2 col-sm-2 col-2 d-flex flex-column align-items-center">
+                        <img src="../Layout/img_TinTuc/icon-profile.png" alt="Profile" class="dropdown-toggle my-auto rounded-circle" style="height: 40px; cursor: pointer;" data-bs-toggle="dropdown">
+                        <ul class="dropdown-menu dropdown-menu-end text-center">
+                            <li><a class="dropdown-item text-black" href="#" data-bs-toggle="modal" data-bs-target="#myModal"><b>Đăng nhập</b></a></li>
+                            <li><a class="dropdown-item text-black" href="#" data-bs-toggle="modal" data-bs-target="#myModal-1"><b>Đăng kí</b></a></li>
+                        </ul>
+                    </div>
 
-
+                </div>
                 
 
-                <li class="py-1">
-                    <a asp-controller="Home" asp-action="pageTinTuc">Tin Tuc</a>
-                </li>
-            </ul>
-        </div>
-        <div class="col-md-2">
-            <div class="col-md-12">
-                <form class="form-header m-auto my-3 rounded-5">
-                    <label for="search">
-                        <input required="" autocomplete="off" placeholder="Tìm kiếm" id="search" type="text">
-                        <div class="icon" style=" position: absolute;
-                                left: var(--padding);
-                                transition: 0.3s cubic-bezier(.4,0,.2,1);
-                                display: flex;
-                                justify-content: center;
-                                align-items: center;">
-                            <svg stroke-width="2" stroke="currentColor" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="swap-on">
-                                <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-linejoin="round" stroke-linecap="round"></path>
-                            </svg>
-                            <svg stroke-width="2" stroke="currentColor" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="swap-off">
-                                <path d="M10 19l-7-7m0 0l7-7m-7 7h18" stroke-linejoin="round" stroke-linecap="round"></path>
-                            </svg>
-                        </div>
-                        <button type="reset" class="close-btn">
-                            <svg viewBox="0 0 20 20" class="h-5 w-5" xmlns="http://www.w3.org/2000/svg">
-                                <path clip-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" fill-rule="evenodd"></path>
-                            </svg>
-                        </button>
-                    </label>
-                </form>
+                
             </div>
         </div>
-        <div class="col-md-1 d-flex dropdown " style="justify-content: center;align-items: center;">
-            <img src="./img/icon-profile.png" alt="" class=" dropdown-toggle rounded-circle" style="height: 40px; cursor: pointer;" data-bs-toggle="dropdown">
-            <ul class="dropdown-menu">
-                <li><a class="text-decoration-none text-black " href="#" data-bs-toggle="modal" data-bs-target="#myModal"><b>Đăng nhập</b></a></li>
-                <li><a class="text-decoration-none text-black " href="#" data-bs-toggle="modal" data-bs-target="#myModal-1"><b>Đăng kí</b></a></li>
-            </ul>
-        </div>
-    </div>
+    </nav>
 </div>
 
 
@@ -140,7 +156,7 @@
                         <div class="col">
                             <label for="birth" class="form-label">Ngày sinh:</label>
                             <input type="date" class="form-control" id="birth">
-                        </div>
+                        </div>>
                     </div>
                     <div class="mb-3 mt-3">
                         <label for="phone" class="form-label">Số điện thoại:</label>
@@ -167,4 +183,4 @@
             </div>
         </div>
     </div>
-</div>
+</div

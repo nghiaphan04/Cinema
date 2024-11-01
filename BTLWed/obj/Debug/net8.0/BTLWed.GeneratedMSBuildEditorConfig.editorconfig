@@ -17,59 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BTLWed
 build_property.RootNamespace = BTLWed
-build_property.ProjectDir = C:\Users\ADMIN\source\repos\BTLWed\BTLWed\
+build_property.ProjectDir = D:\Cinema\BTLWed\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ADMIN\source\repos\BTLWed\BTLWed
+build_property.MSBuildProjectDirectory = D:\Cinema\BTLWed
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Home/homePageCinema.cshtml]
+[D:/Cinema/BTLWed/Views/Home/homePageCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob21lUGFnZUNpbmVtYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Home/pageLichChieu.cshtml]
+[D:/Cinema/BTLWed/Views/Home/pageLichChieu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlTGljaENoaWV1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Home/pageTin.cshtml]
+[D:/Cinema/BTLWed/Views/Home/pageTin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlVGluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Home/pageTinTuc.cshtml]
+[D:/Cinema/BTLWed/Views/Home/pageTinTuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlVGluVHVjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Home/Privacy.cshtml]
+[D:/Cinema/BTLWed/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Shared/Error.cshtml]
+[D:/Cinema/BTLWed/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Shared/_footerCinema.cshtml]
+[D:/Cinema/BTLWed/Views/Shared/_footerCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXJDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Shared/_headerCinema.cshtml]
+[D:/Cinema/BTLWed/Views/Shared/_headerCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkZXJDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Cinema/BTLWed/Views/Shared/_partialCardFilm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsQ2FyZEZpbG0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cinema/BTLWed/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/_ViewImports.cshtml]
+[D:/Cinema/BTLWed/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/_ViewStart.cshtml]
+[D:/Cinema/BTLWed/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ADMIN/source/repos/BTLWed/BTLWed/Views/Shared/_LayoutCinema.cshtml]
+[D:/Cinema/BTLWed/Views/Shared/_LayoutCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7z2bvpfx3i
