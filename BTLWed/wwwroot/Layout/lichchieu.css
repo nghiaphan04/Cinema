@@ -1,8 +1,4 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+
 li{
     list-style: none;
 }
@@ -233,11 +229,9 @@ background: linear-gradient(90deg, rgba(205,83,43,1) 0%, rgba(210,51,83,1) 100%)
     cursor: pointer;
     overflow: hidden;
 }
-/* .list_tinh li:hover  {
-    background: #3e3c3c;
-} */
+
 ul.list_tinh li.selected {
-  background-color:#3e3c3c ;
+  background-color:#c54848 ;
 }
 .list_tinh li:hover p {
     transition: 0.4s;  
@@ -247,6 +241,7 @@ ul.list_tinh li.selected {
 }
 .list_tinh li.selected p {
   text-align: center;
+  color:white;
 }
 .list{
     cursor: pointer;

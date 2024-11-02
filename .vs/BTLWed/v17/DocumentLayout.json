@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "D:\\Cinema\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\home\\pagelichchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\home\\pagelichchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\wwwroot\\layout\\lichchieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\lichchieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\home\\pagechitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\home\\pagechitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\home\\homepagecinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\home\\homepagecinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_headercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_headercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\home\\pagetin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\home\\pagetin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\wwwroot\\layout\\main_web.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\main_web.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_layoutcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_layoutcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_footercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_footercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_partialcardfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_partialcardfilm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\wwwroot\\layout\\lichchieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\lichchieu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\home\\pagetintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\home\\pagetintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\wwwroot\\layout\\main_web.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\main_web.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_footercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_footercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\wwwroot\\layout\\tin_tuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\tin_tuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\cinema\\btlwed\\views\\shared\\_headercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_headercinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,107 +82,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_partialCardFilm.cshtml",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Shared\\_partialCardFilm.cshtml",
-              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_partialCardFilm.cshtml",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Shared\\_partialCardFilm.cshtml",
-              "RelativeToolTip": "BTLWed\\Views\\Shared\\_partialCardFilm.cshtml",
+              "DocumentIndex": 6,
+              "Title": "lichChieu.js",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\lichChieu.js",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\lichChieu.js",
+              "ToolTip": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\lichChieu.js",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\lichChieu.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T16:02:42.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main_web.css",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\main_web.css",
-              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\main_web.css",
-              "ToolTip": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\main_web.css",
-              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\main_web.css",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-01T14:13:38.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "pageTin.cshtml",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTin.cshtml",
-              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\pageTin.cshtml",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTin.cshtml",
-              "RelativeToolTip": "BTLWed\\Views\\Home\\pageTin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T13:52:29.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "homePageCinema.cshtml",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\homePageCinema.cshtml",
-              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\homePageCinema.cshtml",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\homePageCinema.cshtml",
-              "RelativeToolTip": "BTLWed\\Views\\Home\\homePageCinema.cshtml",
-              "ViewState": "AQIAAKkAAAAAAAAAAAAkwLgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T13:46:58.49Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T16:00:11.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "pageTinTuc.cshtml",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTinTuc.cshtml",
-              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\pageTinTuc.cshtml",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTinTuc.cshtml",
-              "RelativeToolTip": "BTLWed\\Views\\Home\\pageTinTuc.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T13:38:58.832Z",
-              "EditorCaption": ""
+              "Title": "main_web.css",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\main_web.css",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\main_web.css",
+              "ToolTip": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\main_web.css",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\main_web.css",
+              "ViewState": "AQIAAJYAAAAAAAAAAAASwKgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T13:16:50.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BTLWed\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BTLWed\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T12:24:14.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_footerCinema.cshtml",
               "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Shared\\_footerCinema.cshtml",
               "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_footerCinema.cshtml",
               "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Shared\\_footerCinema.cshtml",
               "RelativeToolTip": "BTLWed\\Views\\Shared\\_footerCinema.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:54:56.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_headerCinema.cshtml",
-              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Shared\\_headerCinema.cshtml",
-              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_headerCinema.cshtml",
-              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Shared\\_headerCinema.cshtml",
-              "RelativeToolTip": "BTLWed\\Views\\Shared\\_headerCinema.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:52:51.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T13:11:01.799Z"
             },
             {
               "$type": "Document",
@@ -180,9 +125,111 @@
               "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
               "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
               "RelativeToolTip": "BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:51:29.069Z",
+              "WhenOpened": "2024-11-02T13:02:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tin_tuc.css",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\tin_tuc.css",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\tin_tuc.css",
+              "ToolTip": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\tin_tuc.css",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\tin_tuc.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T11:21:14.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pageTinTuc.cshtml",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\pageTinTuc.cshtml",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\pageTinTuc.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Home\\pageTinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:13:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pageChiTietTinTuc.cshtml",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\pageChiTietTinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\pageChiTietTinTuc.cshtml",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\pageChiTietTinTuc.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Home\\pageChiTietTinTuc.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T11:12:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lichchieu.css",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "ToolTip": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAiwO0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T11:08:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_headerCinema.cshtml",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Shared\\_headerCinema.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_headerCinema.cshtml",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Shared\\_headerCinema.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\_headerCinema.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAACjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:58:23.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pageLichChieu.cshtml",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\pageLichChieu.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\pageLichChieu.cshtml",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\pageLichChieu.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Home\\pageLichChieu.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T10:57:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "homePageCinema.cshtml",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Views\\Home\\homePageCinema.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Home\\homePageCinema.cshtml",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Views\\Home\\homePageCinema.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Home\\homePageCinema.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:46:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Cinema\\BTLWed\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTLWed\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Cinema\\BTLWed\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTLWed\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:24:14.283Z",
               "EditorCaption": ""
             }
           ]

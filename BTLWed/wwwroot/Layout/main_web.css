@@ -166,21 +166,37 @@ background: linear-gradient(90deg, rgba(205,83,43,1) 0%, rgba(210,51,83,1) 100%)
 .nav >ul >li> a{
   transition: 0.3s;
 }
-.location-list{
+.location {
+    display: none;
+}
+    
+
+.danh-sach-rap:hover .location {
+    display: block;
+    width: 200px;
+    border:1px solid #ccc;
+    background-color:#ccc;
+    box-shadow: initial;
+}
+.location > li:hover {
+    background-color: #dee1e3;
+    list-style:none;
+}
+/*.location-list{
   position: absolute;
   width: 160px;
   margin-top: 8px;
    transition: 0.5s;
    box-shadow: 3px 3px rgb(29, 29, 193);
    display: none;
-}
-.location-list .location-cinema{
+}*/
+/*.location-list .location-cinema{
   position: absolute;
   width: 200px;
   margin-left: 123px;
   margin-top: -30px;
-}
-.location-list >li:hover{
+}*/
+/*.location-list >li:hover{
   background-color: #dee1e3;
 }
 .location-cinema1{
@@ -201,10 +217,10 @@ background: linear-gradient(90deg, rgba(205,83,43,1) 0%, rgba(210,51,83,1) 100%)
 .test:hover .location-list {
     display: block;
 }
-
-.footer-icon{
-  font-size: 2rem;
-  margin: 0.5rem;
+*/
+.footer-icon {
+    font-size: 2rem;
+    margin: 0.5rem;
 }
 .container-o {
   top: 0;

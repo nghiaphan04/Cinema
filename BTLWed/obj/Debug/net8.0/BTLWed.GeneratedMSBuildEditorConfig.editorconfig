@@ -30,12 +30,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob21lUGFnZUNpbmVtYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageLichChieu.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlTGljaENoaWV1LmNzaHRtbA==
+[D:/Cinema/BTLWed/Views/Home/pageChiTietRap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ2hpVGlldFJhcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageTin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlVGluLmNzaHRtbA==
+[D:/Cinema/BTLWed/Views/Home/pageChiTietTinTuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ2hpVGlldFRpblR1Yy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Cinema/BTLWed/Views/Home/pageLichChieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlTGljaENoaWV1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Cinema/BTLWed/Views/Home/pageTinTuc.cshtml]

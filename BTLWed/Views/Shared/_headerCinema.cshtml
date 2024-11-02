@@ -18,17 +18,19 @@
                         <li class="nav-item">
                             <a class="nav-link text-danger" asp-controller="Home" asp-action="homePageCinema">Trang chủ</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="cinemaDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        
+                        <li class="nav-item danh-sach-rap position-relative">
+                            <a class="nav-link " href="#" >
                                 Danh sách rạp
-                            </a>
-                            <ul class="dropdown-menu" aria-labelledby="cinemaDropdown">
-                                <li><a class="dropdown-item" href="./location-page.html">Cinex Thanh Xuân</a></li>
-                                <li><a class="dropdown-item" href="./location-page.html">Cinex Mỹ Đình</a></li>
-                                <li><a class="dropdown-item" href="./location-page.html">Cinex Cầu Giấy</a></li>
-                                <li><a class="dropdown-item" href="./location-page.html">Cinex Hai Bà Trưng</a></li>
-                                <li><a class="dropdown-item" href="./location-page.html">Cinex Hoàn Kiếm</a></li>
-                            </ul>
+                            </a>     
+                          <ul class=" bg-white location position-absolute px-0">
+                                        <li class="text-start px-3 py-2 "><a class="text-black text-decoration-none" asp-controller="Home" asp-action="pageChiTietRap">Cinex Thanh Xuân</a></li>
+                                        <li class="text-start px-3 py-2 "> <a href="./location-page.html" class="text-black text-decoration-none">Cinex Mỹ Đình</a></li>
+                                        <li class="text-start px-3 py-2 "> <a href="./location-page.html" class="text-black text-decoration-none">Cinex Cầu Giấy</a></li>
+                                        <li class="text-start px-3 py-2 "><a href="./location-page.html" class="text-black text-decoration-none">Cinex Hai Bà Trưng</a></li>
+                                        <li class="text-start px-3 py-2 "> <a href="./location-page.html" class="text-black text-decoration-none">Cinex Hoàn Kiếm</a> </li>
+                            </ul>            
+
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Home" asp-action="pageLichChieu">Lịch chiếu</a>

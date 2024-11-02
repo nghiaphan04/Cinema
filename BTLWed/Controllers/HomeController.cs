@@ -21,15 +21,21 @@ namespace BTLWed.Controllers
         {
             return View();
         }
+        public IActionResult pageChiTietRap()
+        {
+            return View();
+        }
+
 
         public IActionResult pageTinTuc()
         {
             return View();
         }
-        public IActionResult pageTin()
+        public IActionResult pageChiTietTinTuc()
         {
             return View();
         }
+        
         public IActionResult Privacy()
         {
             return View();

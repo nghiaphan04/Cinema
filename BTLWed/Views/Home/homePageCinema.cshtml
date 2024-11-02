@@ -6,11 +6,11 @@
 
 <h1>homePageCinema</h1>
 
-<div id="main ">
+<div id="main" class="bg-black text-white">
 
        @* slide *@
 
-<div id="slide-web" class="carousel slide  " data-bs-ride="carousel" style="margin-bottom: 35px;margin-top: 65px;">
+<div id="slide-web" class="carousel slide pt-5 " data-bs-ride="carousel" >
     <!-- Indicators/dots -->
     <ul class="carousel-indicators">
         <li data-bs-target="#slide-web" data-bs-slide-to="0" class="active"></;type=>
@@ -159,15 +159,15 @@
                 <div class="d-flex flex-wrap ">
                     @for (int i = 0; i < 3; i++)
                     {
-                        <div class="news-item col-md-12 col-lg-5  ms-lg-5 mx-2 mt-4 p-0 d-flex">
-                            <div class="col-4 ps-0 pe-2">
+                        <div class="news-item col-md-12 col-lg-5  ms-lg-5 mx-2 mt-4 p-0 d-flex ms-md-0 row">
+                            <div class="col-4 col-md-3 col-lg-4 ps-0 pe-1 pe-lg-2 pe-md-2 pe-sm-2">
                                 <img src="../Layout/images/tintuc-2.jpeg" alt="" class="img-fluid rounded border border-1" style="height: 140px;">
                             </div>
-                            <div class="col-8 px-0 mx-0">
+                            <div class="col-8 col-md-8  col-lg-8 px-0 mx-0 ps-2 ps-lg-0 ">
                                 <a href="" class="text-white text-decoration-none" style="font-weight: 800;">
                                     Trấn Thành lại gây tranh luận vì vai Bác Ba Phi 'Đất rừng Phương Nam'!
                                 </a>
-                                <p style="font-size: 13px;text-align:justify" class="mt-2 ">
+                                <p style="font-size: 13px;text-align:justify" class="mt-2 d-none d-lg-flex d-md-flex d-sm-flex">
                                     Bộ phim "Đất Rừng Phương Nam" của đạo diễn Nguyễn Quang Dũng hiện vẫn đối mặt với nhiều tranh cãi, nhất là về nhân vật bác Ba Phi do Trấn Thành thủ vai.
                                 </p>
                             </div>
@@ -177,16 +177,16 @@
             </div>
 
             <!-- Ghiền Review Section -->
-            <div class="col-md-12 col-lg-7 col-sm-12 col-12 p-0 mt-5">
+            <div class="pb-5 mx-0 px-0 mt-5">
 
-                <h4 class="py-2 mx-lg-5 mx-sm-0 col-md-4 text-white" style="border-bottom: 3px solid #a91111;">Ghiền Review</h4>
+                <h4 class="py-2 mx-lg-5 mx-sm-0 px-lg-0 px-sm-0 px-0 px-md-0 col-md-3 text-white" style="border-bottom: 3px solid #a91111;">Ghiền Review</h4>
                 @for (int i = 0; i < 5; i++)
                 {
-                    <div class="review-item col-md-7 row mt-4 mx-lg-5 ms-1 ">
-                        <div class="col-md-3 ps-0">
+                    <div class="review-item col-md-12 col-12 row col-lg-8 mt-4 p-0 mx-0 mx-lg-5">
+                        <div class="col-md-3 col-12 col-lg-3 col-sm-3 p-0 m-0">
                             <img src="../Layout/images/baiviet1.jpg" alt="" class="img-fluid rounded border border-1">
                         </div>
-                        <div class="col-md-8 ps-0 " style="font-size: 13px;">
+                        <div class="col-md-8 col-12 col-lg-8 col-sm-8 p-0 ms-lg-2 ms-md-2 ms-0 ps-sm-2 " style="font-size: 13px;">
                             <p class="mb-1">
                                 <a href="" class="text-decoration-none text-white" style="font-size: 15px; font-weight: 700;">
                                     Review Thanh Gươm Trừ Tà - Khi Thầy Cúng Dởm Hóa Chuyên Gia Diệt Quỷ

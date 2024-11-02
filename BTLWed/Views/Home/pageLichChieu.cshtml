@@ -4,337 +4,73 @@
     Layout = "~/Views/Shared/_LayoutCinema.cshtml";
 }
 
-<div class="main bg-black container-fluid text-white pb-5" style="padding-top: 87px;">
-    <div class="row mt-3">
-        <div class="col-md-4  px-5 ">
-            <div class="col-md-10 m-auto rounded-3" style="background-color: rgb(25, 24, 24)">
-                <h4 class=" px-2 pt-2 pb-2"><span style="border-bottom: 2px solid #b14242;">Tỉnh thành</span></h4>
+<div class="container-fluid pb-5 pt-5 mt-5 row px-0 mx-auto">
+    
+        <div class="col-md-3 col-lg-3 col-sm-10 col-10 bg-light rounded-3 mx-auto mt-5" style="border: 2px solid #c33f3f ; max-height:500px">
+                <h4 class=" px-2 pt-2 pb-2 text-center text-white rounded-bottom bg-danger">Danh sách rạp</h4>
                 <ul class="p-0 list_tinh pb-3">
-                    <li class=" pt-2 mx-2 hanoi"><p class=" my-3 ">Hà Nội</p></li>
-                    <li class="pt-2 mx-2 danang"><p class=" my-3">Đà Nẵng</p></li>
-                    <li class="pt-2 mx-2 nghean"><p class=" my-3">Nghệ An</p></li>
-                    <li class="pt-2 mx-2 hatinh"><p class=" my-3">Hà Tĩnh</p></li>
-                    <li class="pt-2 mx-2 thaibinh"><p class=" my-3">Thái Bình</p></li>
-                    <li class="pt-2 mx-2 bacgiang"><p class=" my-3">Bắc Giang</p></li>
-                    <li class="pt-2 mx-2 vinhphuc "><p class=" my-3">Vĩnh Phúc</p></li>
-                </ul>
-
-            </div>
+                           <li class=" pt-2 mx-2"><p class=" my-3 ">Cinex Thanh Xuân</p></li>
+                            <li class="pt-2 mx-2 danang"><p class=" my-3">Cinex Mỹ Đình</p></li>
+                            <li class="pt-2 mx-2 thaibinh"><p class=" my-3">Cinex Cầu Giấy</p></li>
+                            <li class="pt-2 mx-2 bacgiang"><p class=" my-3">Cinex Hai Bà Trưng</p></li>
+                            <li class="pt-2 mx-2 vinhphuc "><p class=" my-3">Cinex Hoàn Kiếm</p></li>
+                </ul>            
         </div>
-        <div class="row col-md-8 ">
-            <div class="col-md-12 rounded-3 pb-4" style="background-color: rgb(40, 38, 38);">
-                <p class="canh-bao text-center"><i>Vui lòng chọn tỉnh thành để chọn rạp</i></p>
-                <div class="col-md-12 list-rap-hanoi  ">
-                    <div class=" row col-md-11 mx-auto py-2 thanh-xuan mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Thanh Xuân</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row col-md-11 mx-auto py-2 mt-3  thanh-xuan-cinema closed">
-                        <div class="col-md-12">
-                            <!-- danghot -->
-                            <h5>Phim đang hot</h5>
-                            <div class=" row col-md-11 mt-4">
-                                <img src="../Layout/images//bietdoidanhthue-film.png" class="col-md-4" alt="">
-                                <div class="col-md-8" style="font-size: 14px;">
-                                    <h5><a href="./bietdoidanhthue.html" class="text-decoration-none">Biệt Đội Đánh Thuê</a></h5>
-                                    <i class="fa fa-tags " aria-hidden="true"></i>
-                                    Tâm lý
-                                    <i class="fa fa-clock-o " aria-hidden="true" style="margin-left: 1rem;"></i>
-                                    110 phút
+    <div class="row col-md-8 col-lg-8  col-sm-10 col-10 bg-light mt-5 mx-auto rounded-3 pb-4 " style="border: 1px solid #c33f3f" >
+            
+                <p class="canh-bao text-center"><i>Vui lòng chọn một rạp bất kì</i></p>
+               
+                    <div class="row col-md-11 mx-auto py-2 mt-3  ">
+                      <h5>Phim đang hot</h5>
+                        @{
+                            for(int i = 0; i < 2; i++)
+                            {
+                                <div class=" row col-md-11 mt-4 rounded-1">
+                                    <img src="../Layout/images//bietdoidanhthue-film.png" class="col-md-4 col-sm-6 " alt="">
+                                    <div class="col-md-8 col-sm-6 mt-lg-0 mt-sm-2 mt-md-2 mt-2" style="font-size: 14px;">
+                                        <h5><a href="./bietdoidanhthue.html" class="text-decoration-none">Biệt Đội Đánh Thuê</a></h5>
+                                        <i class="fa fa-tags " aria-hidden="true"></i>
+                                        Tâm lý
+                                        <i class="fa fa-clock-o " aria-hidden="true" style="margin-left: 1rem;"></i>
+                                        110 phút
+                                    </div>
                                 </div>
-                            </div>
-                            <div class=" row col-md-11 mt-4">
-                                <img src="../Layout/images//thanh_guom_rap_ha_noi.jpeg" class="col-md-4" alt="">
-                                <div class="col-md-8" style="font-size: 14px;">
-                                    <h5><a href="film-info.html" class="text-decoration-none">Thanh Gươm Trừ Tà</a></h5>
-                                    <i class="fa fa-tags " aria-hidden="true"></i>
-                                    Kinh dị, hài hước
-                                    <i class="fa fa-clock-o " aria-hidden="true" style="margin-left: 1rem;"></i>
-                                    98 phút
-                                </div>
-                            </div>
-                        </div>
+                            }
+                        }
                         <!-- dexuatkhac -->
-                        <div class="col-md-12 mt-4 col-xxl-11 list-de-xuat ">
-                            <h5 class="mb-4">Đề xuất khác</h5>
-                            <!-- slider -->
-                            <div class=" row  slider-container">
-                                <div class="col-md-12  slider">
+                    <h5 class="mb-4 mt-5">Đề xuất khác</h5>
+                        
+                    <div class=" row  slider-container">
+                        <div class="col-md-12  slider">
+                            @{
+                                for(int i = 0; i < 12; i++)
+                                {
                                     <div class=" card" style="margin-right: 2.15rem;">
                                         <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
                                         <div class="card-body p-1">
                                             <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Quỷ ám tín đồ</a></b></div>
                                         </div>
                                     </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//buocchanthep-rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Bước chân thép</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//vangtrangmau-thanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Vầng trăng máu</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//phonganquydu-rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Phong ấn quỷ dữ</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//kumathong-rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Kumathong Quỷ linh nhi</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Cú máy ăn tiền</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Muôn kiếp nhân duyên</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Giao lộ 8675</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Kẻ kiến tạo</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Mộng du</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Biệt đội đánh thuê</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Nhân duyên tiền đình</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Án mạng Venice</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Thám tử lừng danh Connan</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Kỵ sĩ bóng đêm</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Trạm tàu ma</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Lời nguyền con đầm bích</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Paw Patrol</a></b></div>
-                                        </div>
-                                    </div>
-                                    <div class=" card" style="margin-right: 2.15rem;">
-                                        <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
-                                        <div class="card-body p-1">
-                                            <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Hội chứng tuổi thanh xuân</a></b></div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="dots col-md-4 mx-auto mt-4">
-                                    <span class="dot"></span>
-                                    <span class="dot"></span>
-                                    <span class="dot"></span>
-                                    <span class="dot"></span>
-                                    <span class="dot"></span>
+                                }
+                            }
+                            
+                        </div>
+                        <div class="dots col-md-4 mx-auto mt-4">
+                            <span class="dot"></span>
+                            <span class="dot"></span>
+                            <span class="dot"></span>
+                            <span class="dot"></span>
+                            <span class="dot"></span>
 
-                                </div>
-                            </div>
                         </div>
                     </div>
-                    <div class=" row col-md-11 mx-auto py-2 mt-3 list border-bottom">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Mỹ Đình</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 7, VinCom Center Hà Nội, 192 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
+                         
+                      
                     </div>
-                    <div class=" row col-md-11 mx-auto py-2 mt-3 list border-bottom">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Cầu Giấy</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 8, VinCom Center Hà Nội, 193 Nguyễn Xiển, Quận Cầu Giấy, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" row col-md-11 mx-auto py-2 mt-3 list border-bottom">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Hai Bà Trưng</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 9, VinCom Center Hà Nội, 194 Nguyễn Xiển, Quận Hai Bà Trưng, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" row col-md-11 mx-auto py-2 mt-3 list border-bottom">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Hoàn Kiếm</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 10, VinCom Center Hà Nội, 195 Nguyễn Xiển, Quận Hoàn Kiếm, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 list-rap-danang">
-                    <div class=" row col-md-11 mx-auto py-2 danang-1 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Đà Nẵng 1</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" row col-md-11 mx-auto py-2 danang-2 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Đà Nẵng 1</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 list-rap-nghean">
-                    <div class=" row col-md-11 mx-auto py-2 nghean-1 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Nghệ An 1</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" row col-md-11 mx-auto py-2 nghean-2 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex Nghệ An 2</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 list-rap-hatinh">
-                    <div class=" row col-md-11 mx-auto py-2 nghean-1 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex hatinh 1</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                    <div class=" row col-md-11 mx-auto py-2 nghean-2 mt-3 list border-bottom ">
-                        <div class="col-md-1 my-auto ">
-                            <img src="../Layout/images//rap1.png" class="img-fluid" alt="">
-                        </div>
-                        <div class="row col-md-11 p-0">
-                            <div class="col-md-12">
-                                <b>Cnex hatinh 2</b>
-                            </div>
-                            <div class="col-md-12 " style="font-size: 12px;">
-                                Tầng 6, VinCom Center Hà Nội, 191 Nguyễn Xiển, Quận Thanh Xuân, Hà Nội
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+              
+               
+
         </div>
-    </div>
+   
 </div>
 

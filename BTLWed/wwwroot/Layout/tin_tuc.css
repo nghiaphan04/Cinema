@@ -1,13 +1,9 @@
-
-body{
-    background-color: bisque;
-}
 .home-title{
-    margin-top: 60px;
    font-weight: bold;
     text-align: center;  
     font-family: Verdana, Arial, sans-serif;
     color: black;
+    
 }
 
 .poster{
@@ -43,9 +39,7 @@ h4{
     font-family: Verdana, Arial, sans-serif;
 }
 
-.footer{
-    margin-top: 100px;
-}
+
 .shin{
     padding: 15px;
 }
