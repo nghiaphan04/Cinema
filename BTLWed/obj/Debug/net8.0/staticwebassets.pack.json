@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\Layout\\design.js"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\395764982_6742115422544623_1046237481553494292_n.mp4",
+      "PackagePath": "staticwebassets\\Layout\\images\\395764982_6742115422544623_1046237481553494292_n.mp4"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\CHEON_STI-MKT-01-2-lớn.jpeg",
       "PackagePath": "staticwebassets\\Layout\\images\\CHEON_STI-MKT-01-2-lớn.jpeg"
     },
@@ -45,8 +49,48 @@
       "PackagePath": "staticwebassets\\Layout\\images\\anh-film.png"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh1.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh2.jpg"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh2.png",
       "PackagePath": "staticwebassets\\Layout\\images\\anh2.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh4.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh5.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh6 copy.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh6 copy.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh6.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh6.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh7.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh7.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anh8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anh8.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\anhto.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\anhto.jpg"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\baiviet1.jpg",
@@ -63,6 +107,26 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bietdoidanhthue-film.png",
       "PackagePath": "staticwebassets\\Layout\\images\\bietdoidanhthue-film.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bongnuo1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bongnuo1.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bongnuoc2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bongnuoc2.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bongnuoc3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bongnuoc3.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bongnuoc4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bongnuoc4.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\bongnuoc5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bongnuoc5.jpg"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\buocchanthep-rapthanhxuan.jpeg",
@@ -121,6 +185,22 @@
       "PackagePath": "staticwebassets\\Layout\\images\\film2.jpeg"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ghe.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ghe.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ghe_da_bán.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ghe_da_bán.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ghe_trống.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ghe_trống.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ghế_đang_chọn.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ghế_đang_chọn.png"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\giaolo-film.png",
       "PackagePath": "staticwebassets\\Layout\\images\\giaolo-film.png"
     },
@@ -143,6 +223,14 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\i4-film.jpeg",
       "PackagePath": "staticwebassets\\Layout\\images\\i4-film.jpeg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ic-screen.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ic-screen.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\icon-profile.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\icon-profile.png"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\img-bg.jpg",
@@ -205,6 +293,10 @@
       "PackagePath": "staticwebassets\\Layout\\images\\lazyload.gif"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\lich.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\lich.png"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\list1.jpg",
       "PackagePath": "staticwebassets\\Layout\\images\\list1.jpg"
     },
@@ -219,6 +311,14 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\marvel.jpg",
       "PackagePath": "staticwebassets\\Layout\\images\\marvel.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\mkbank1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\mkbank1.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\momo.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\momo.jpg"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\mongdu-film.png",
@@ -273,6 +373,18 @@
       "PackagePath": "staticwebassets\\Layout\\images\\rap1.png"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ribon_left.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ribon_left.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\ribon_left_1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\ribon_left_1.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\shopeePay.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\shopeePay.png"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\slide-1.jpg",
       "PackagePath": "staticwebassets\\Layout\\images\\slide-1.jpg"
     },
@@ -305,12 +417,36 @@
       "PackagePath": "staticwebassets\\Layout\\images\\thanhphongugat-thanhxuan.jpg"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintc-5.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintc-5.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc-1.png"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc-2.jpeg",
       "PackagePath": "staticwebassets\\Layout\\images\\tintuc-2.jpeg"
     },
     {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc-3.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc-4.png"
+    },
+    {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc1.jpg",
       "PackagePath": "staticwebassets\\Layout\\images\\tintuc1.jpg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc1.png"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tintuc2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\tintuc2.jpg"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\tuan-le-phim-viet-uu-dai-kick-liet-1702-x-621-145659-201023-53.png",
@@ -323,6 +459,10 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\vangtrangmau-thanhxuan.jpeg",
       "PackagePath": "staticwebassets\\Layout\\images\\vangtrangmau-thanhxuan.jpeg"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\images\\vietcombank.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\vietcombank.jpg"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\img_TinTuc\\395764982_6742115422544623_1046237481553494292_n.mp4",
@@ -471,6 +611,10 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\main_web.css",
       "PackagePath": "staticwebassets\\Layout\\main_web.css"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\muave.js",
+      "PackagePath": "staticwebassets\\Layout\\muave.js"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\themify-icons\\SVG\\Italic.svg",
@@ -1923,6 +2067,10 @@
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\themify-icons\\themify-icons.css",
       "PackagePath": "staticwebassets\\Layout\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\thongtinphim.css",
+      "PackagePath": "staticwebassets\\Layout\\thongtinphim.css"
     },
     {
       "Id": "D:\\Cinema\\BTLWed\\wwwroot\\Layout\\tin_tuc.css",

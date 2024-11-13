@@ -35,7 +35,12 @@ namespace BTLWed.Controllers
         {
             return View();
         }
-        
+        public IActionResult pageChiTietPhim()
+        {
+            return View();
+        }
+
+
         public IActionResult Privacy()
         {
             return View();

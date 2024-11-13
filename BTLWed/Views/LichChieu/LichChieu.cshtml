@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewData["Title"] = "LichChieu";
+    Layout = "~/Views/Shared/_LayoutCinema.cshtml";
+}
+
+
+
+<div class="container-fluid pb-5 pt-5 mt-5 row px-0 mx-auto">
+
+    <div class="col-md-3 col-lg-3 col-sm-10 col-10 bg-light rounded-3 mx-auto mt-5" style="border: 2px solid #c33f3f ; max-height:500px">
+        <h4 class=" px-2 pt-2 pb-2 text-center text-white rounded-bottom bg-danger">Danh sách rạp</h4>
+        <ul class="p-0 list_tinh pb-3">
+            <li class=" pt-2 mx-2"><p class=" my-3 ">Cinex Thanh Xuân</p></li>
+            <li class="pt-2 mx-2 danang"><p class=" my-3">Cinex Mỹ Đình</p></li>
+            <li class="pt-2 mx-2 thaibinh"><p class=" my-3">Cinex Cầu Giấy</p></li>
+            <li class="pt-2 mx-2 bacgiang"><p class=" my-3">Cinex Hai Bà Trưng</p></li>
+            <li class="pt-2 mx-2 vinhphuc "><p class=" my-3">Cinex Hoàn Kiếm</p></li>
+        </ul>
+    </div>
+    <div class="row col-md-8 col-lg-8  col-sm-10 col-10 bg-light mt-5 mx-auto rounded-3 pb-4 " style="border: 1px solid #c33f3f">
+
+        <p class="canh-bao text-center"><i>Vui lòng chọn một rạp bất kì</i></p>
+
+        <div class="row col-md-11 mx-auto py-2 mt-3  ">
+            <h5>Phim đang hot</h5>
+            @{
+                for (int i = 0; i < 2; i++)
+                {
+                    <div class=" row col-md-11 mt-4 rounded-1">
+                        <img src="../Layout/images//bietdoidanhthue-film.png" class="col-md-4 col-sm-6 " alt="">
+                        <div class="col-md-8 col-sm-6 mt-lg-0 mt-sm-2 mt-md-2 mt-2" style="font-size: 14px;">
+                            <h5><a href="./bietdoidanhthue.html" class="text-decoration-none">Biệt Đội Đánh Thuê</a></h5>
+                            <i class="fa fa-tags " aria-hidden="true"></i>
+                            Tâm lý
+                            <i class="fa fa-clock-o " aria-hidden="true" style="margin-left: 1rem;"></i>
+                            110 phút
+                        </div>
+                    </div>
+                }
+            }
+            <!-- dexuatkhac -->
+            <h5 class="mb-4 mt-5">Đề xuất khác</h5>
+
+            <div class=" row  slider-container">
+                <div class="col-md-12  slider">
+                    @{
+                        for (int i = 0; i < 12; i++)
+                        {
+                            <div class=" card" style="margin-right: 2.15rem;">
+                                <img src="../Layout/images//quyam_rapthanhxuan.jpeg" class="card-img-top" alt="...">
+                                <div class="card-body p-1">
+                                    <div class="card-text text-center text-black"><b><a href="" class="text-decoration-none">Quỷ ám tín đồ</a></b></div>
+                                </div>
+                            </div>
+                        }
+                    }
+
+                </div>
+                <div class="dots col-md-4 mx-auto mt-4">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+
+</div>
+
+
