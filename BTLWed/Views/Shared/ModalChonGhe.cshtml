@@ -1,0 +1,59 @@
+﻿<div class="modal" id="modal-chon-ghe">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+
+                <div class="thanhtoan">
+                 
+                    <div class="ghe text-black">
+                        <div>Ghế ngồi: <span id="selectedSeatsList"></span></div>
+                    </div>
+
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <div class="container-fluid row">
+                    <p class="text-center text-black">Theo quy định của cục điện ảnh, phim này không dành cho khán giả dưới 16 tuổi.</p>
+
+                    <div class="col-lg-12 row text-black px-0 mx-0 text-center">
+                        <div class="col-lg-3 mx-lg-auto">
+                            <img src="../Layout/images/ghe_trống.png" alt="">
+                            <p>ghế trống</p>
+                        </div>
+                        <div class="col-lg-3 mx-lg-auto">
+                            <img src="../Layout/images/ghế_đang_chọn.png" alt="">
+                            <p>ghế đang chọn</p>
+                        </div>
+                        <div class="col-lg-3 mx-lg-auto">
+                            <img src="../Layout/images/ghe_da_bán.png" alt="">
+                            <!--  -->
+                            <p>ghế đã bán</p>
+                        </div>
+                    </div>
+                    <h1 class="text-center text-black">Màn hình chính</h1>
+                    <div id="total-seats">
+                       
+                     
+                    </div>
+
+                    
+
+                </div>
+
+
+            </div>
+
+            <!-- Modal footer -->
+
+            <div class="modal-footer">
+                <input class="button vemua Buy" onclick="HienThiModalCombo()" type="button" style="background-color:  rgb(35, 89, 237); color: #fff; border-radius: 20px;" value="Tiếp Tục">
+            </div>
+
+        </div>
+    </div>
+</div>

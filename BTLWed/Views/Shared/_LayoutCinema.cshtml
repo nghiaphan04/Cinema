@@ -21,6 +21,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../Layout/lichChieu.js"></script>
     <script src="../Layout/muave.js"></script>
+    <script src="../Layout/modalControl.js"></script>
 </head>
 <body>
     @Html.Partial("_headerCinema")
@@ -29,6 +30,13 @@
            @RenderBody()
     </div>
     @Html.Partial("_footerCinema")
-    
+
+    @Html.Partial("ModalTrailer")
+     @Html.Partial("ModalChonCombo")
+      @Html.Partial("ModalChonGhe")
+    @Html.Partial("ModalSuatChieu")
+    @Html.Partial("ModalThanhToan")
+     @Html.Partial("ModalXacNhanSuatChieu")
+
 </body>
 </html>

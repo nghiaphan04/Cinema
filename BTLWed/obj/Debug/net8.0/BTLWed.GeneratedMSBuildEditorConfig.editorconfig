@@ -17,99 +17,119 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BTLWed
 build_property.RootNamespace = BTLWed
-build_property.ProjectDir = D:\Cinema\BTLWed\
+build_property.ProjectDir = D:\C#\Cinema\BTLWed\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Cinema\BTLWed
+build_property.MSBuildProjectDirectory = D:\C#\Cinema\BTLWed
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Cinema/BTLWed/Views/DanhSachRap/ChiTietRap.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/DanhSachRap/ChiTietRap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaFNhY2hSYXBcQ2hpVGlldFJhcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/homePageCinema.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/homePageCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob21lUGFnZUNpbmVtYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageChiTietPhim.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/pageChiTietPhim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ2hpVGlldFBoaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageChiTietRap.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/pageChiTietRap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ2hpVGlldFJhcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageChiTietTinTuc.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/pageChiTietTinTuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlQ2hpVGlldFRpblR1Yy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageLichChieu.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/pageLichChieu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlTGljaENoaWV1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/pageTinTuc.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/pageTinTuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYWdlVGluVHVjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Home/Privacy.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/LichChieu/LichChieu.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/LichChieu/LichChieu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGljaENoaWV1XExpY2hDaGlldS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/Error.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/Modal/Modal.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsXE1vZGFsLmNzaHRtbA==
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalChonCombo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsQ2hvbkNvbWJvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/_footerCinema.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalChonGhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsQ2hvbkdoZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalSuatChieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsU3VhdENoaWV1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalThanhToan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsVGhhbmhUb2FuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalTrailer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsVHJhaWxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/Cinema/BTLWed/Views/Shared/ModalXacNhanSuatChieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsWGFjTmhhblN1YXRDaGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/Cinema/BTLWed/Views/Shared/_footerCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXJDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/_headerCinema.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/_headerCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkZXJDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/_partialCardFilm.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/_partialCardFilm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYXJ0aWFsQ2FyZEZpbG0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/TinTuc/ChiTietTinTuc.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/TinTuc/ChiTietTinTuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluVHVjXENoaVRpZXRUaW5UdWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/TinTuc/TinTuc.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/TinTuc/TinTuc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGluVHVjXFRpblR1Yy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/TrangChu/ChiTietPhim.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/TrangChu/ChiTietPhim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbmdDaHVcQ2hpVGlldFBoaW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/TrangChu/TrangChu.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/TrangChu/TrangChu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbmdDaHVcVHJhbmdDaHUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/_ViewImports.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/_ViewStart.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cinema/BTLWed/Views/Shared/_LayoutCinema.cshtml]
+[D:/C\#/Cinema/BTLWed/Views/Shared/_LayoutCinema.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaW5lbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7z2bvpfx3i

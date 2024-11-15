@@ -1,7 +1,72 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cinema\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\C#\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\danhsachrap\\chitietrap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\danhsachrap\\chitietrap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\lichchieu\\lichchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\lichchieu\\lichchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\trangchu\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\trangchu\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\trangchu\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\trangchu\\chitietphim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\tintuc\\chitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\tintuc\\chitiettintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\tintuc\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\tintuc\\tintuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\wwwroot\\layout\\modalcontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\modalcontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\controllers\\trangchucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\shared\\modalthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\modalthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\shared\\modalchoncombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\modalchoncombo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\shared\\modalsuatchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\modalsuatchieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\shared\\modalchonghe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\modalchonghe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\wwwroot\\layout\\muave.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\muave.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\wwwroot\\layout\\thongtinphim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\thongtinphim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\views\\shared\\_layoutcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\views\\shared\\_layoutcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|d:\\c#\\cinema\\btlwed\\wwwroot\\layout\\lichchieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6237957-ECC5-491F-8C8C-8580363134F3}|BTLWed\\BTLWed.csproj|solutionrelative:btlwed\\wwwroot\\layout\\lichchieu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +95,205 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietRap.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\DanhSachRap\\ChiTietRap.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\DanhSachRap\\ChiTietRap.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\DanhSachRap\\ChiTietRap.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\DanhSachRap\\ChiTietRap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:32:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LichChieu.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\LichChieu\\LichChieu.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\LichChieu\\LichChieu.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\LichChieu\\LichChieu.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\LichChieu\\LichChieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:31:59.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\TrangChu\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\TrangChu\\TrangChu.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\TrangChu\\TrangChu.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\TrangChu\\TrangChu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:31:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TinTuc.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\TinTuc\\TinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\TinTuc\\TinTuc.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\TinTuc\\TinTuc.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\TinTuc\\TinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:31:23.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietTinTuc.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\TinTuc\\ChiTietTinTuc.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\TinTuc\\ChiTietTinTuc.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\TinTuc\\ChiTietTinTuc.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\TinTuc\\ChiTietTinTuc.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:20:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModalThanhToan.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalThanhToan.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\ModalThanhToan.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalThanhToan.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\ModalThanhToan.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:16:50.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModalChonCombo.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalChonCombo.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\ModalChonCombo.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalChonCombo.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\ModalChonCombo.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T12:22:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lichchieu.css",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\lichchieu.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T10:11:04.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "muave.js",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\muave.js",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\muave.js",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\muave.js",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\muave.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T08:15:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModalChonGhe.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalChonGhe.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\ModalChonGhe.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalChonGhe.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\ModalChonGhe.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T07:16:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modalControl.js",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\modalControl.js",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\modalControl.js",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\modalControl.js",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\modalControl.js",
+              "ViewState": "AQIAAE0BAAAAAAAAAAAAAE0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-14T03:38:27.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModalSuatChieu.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalSuatChieu.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\ModalSuatChieu.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\ModalSuatChieu.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\ModalSuatChieu.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T16:59:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "thongtinphim.css",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\thongtinphim.css",
+              "RelativeDocumentMoniker": "BTLWed\\wwwroot\\Layout\\thongtinphim.css",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\wwwroot\\Layout\\thongtinphim.css",
+              "RelativeToolTip": "BTLWed\\wwwroot\\Layout\\thongtinphim.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T15:48:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutCinema.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\Shared\\_LayoutCinema.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T15:17:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChiTietPhim.cshtml",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Views\\TrangChu\\ChiTietPhim.cshtml",
+              "RelativeDocumentMoniker": "BTLWed\\Views\\TrangChu\\ChiTietPhim.cshtml",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Views\\TrangChu\\ChiTietPhim.cshtml",
+              "RelativeToolTip": "BTLWed\\Views\\TrangChu\\ChiTietPhim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T13:18:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrangChuController.cs",
+              "DocumentMoniker": "D:\\C#\\Cinema\\BTLWed\\Controllers\\TrangChuController.cs",
+              "RelativeDocumentMoniker": "BTLWed\\Controllers\\TrangChuController.cs",
+              "ToolTip": "D:\\C#\\Cinema\\BTLWed\\Controllers\\TrangChuController.cs",
+              "RelativeToolTip": "BTLWed\\Controllers\\TrangChuController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:14:43.557Z"
             }
           ]
         },

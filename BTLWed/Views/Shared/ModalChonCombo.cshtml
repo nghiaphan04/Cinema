@@ -1,0 +1,83 @@
+﻿
+<div class="modal" id="modal-chon-combo">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header text-black">
+
+                <p style="font-size: 18px;" id="money">Tổng tiền nước uống: <strong id="total-drink">0</strong> </p>
+
+
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body text-black">
+                <h3 class="text-black text-center">ĐỒ UỐNG</h3>
+               @*  <div class="table-buy">
+                    <table>
+                        <tr>
+                            <th></th>
+                            <th>Tên Combo</th>
+                            <th>Mô tả</th>
+                            <th>Số lượng</th>
+                        </tr>
+                        <tr>
+                            <td><img class="img-combo" src="../Layout/images/bongnuoc2.png" alt=""></td>
+                            <td>Sweet Combo 69oz</td>
+                            <td>TIẾT KIỆM 28K!!! Gồm: 1 Bắp (69oz) + 1 Nước có gaz (22oz) (69k)</td>
+                            <td class="x">
+                                <span id="soluong1">0</span>
+                                <i id="add1" class="ti ti-plus bg-primary text-white  rounded-circle "></i>
+                                <i id="sub1" class="ti ti-minus bg-primary text-white  rounded-circle "></i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img class="img-combo" src="../Layout/images/bongnuoc3.jpg" alt=""></td>
+                            <td>Beta Combo 99oz</td>
+                            <td>TIẾT KIỆM 46K!!! Gồm: 1 Bắp (69oz) + 2 Nước có gaz (22oz) (99k)</td>
+                            <td class="x">
+                                <span id="soluong2">0</span>
+                                <i id="add2" class="ti ti-plus bg-primary text-white  rounded-circle "></i>
+                                <i id="sub2" class="ti ti-minus bg-primary text-white  rounded-circle "></i>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img class="img-combo" src="../Layout/images/bongnuoc4.png" alt=""></td>
+                            <td>Combo See Mê - Cầu Vồng</td>
+                            <td>Chỉ 139K sở hữu ngay: 1 Bắp (69oz) + 1 Cốc Cầu vồng kèm nước có gaz</td>
+                            <td class="x">
+                                <span id="soluong3">0</span>
+                                <i id="add3" class="ti ti-plus bg-primary text-white  rounded-circle "></i>
+                                <i id="sub3" class="ti ti-minus bg-primary text-white  rounded-circle "></i>
+                            </td>
+                        </tr>
+                    </table>
+                </div> *@
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>STT</th>
+                            <th>Tên đồ uống</th>
+                            <th>Giá tiền</th>
+                            <th>Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody id="danh-sach-do-uong">
+                      
+                    </tbody>
+                </table>
+
+
+            </div>
+
+            <!-- Modal footer -->
+
+            <div class="modal-footer">
+                <input class="Buy" onclick ="HienThiModalThanhToan()" type="button" value="Tiếp Tục"></input>
+            </div>
+
+        </div>
+    </div>
+</div>

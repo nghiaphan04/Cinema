@@ -326,3 +326,8 @@ background: linear-gradient(90deg, rgba(205,83,43,1) 0%, rgba(210,51,83,1) 100%)
       height: 300px;
   }
 }
+h5 {
+    white-space: nowrap; /* Không xu?ng dòng */
+    overflow: hidden; /* ?n ph?n d? th?a */
+    text-overflow: ellipsis; /* Thêm d?u "..." ? cu?i dòng */
+}

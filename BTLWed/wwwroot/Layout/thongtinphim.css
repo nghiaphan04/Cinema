@@ -6,10 +6,17 @@
 
 .seat-selected{
     background-color: #03599d !important;
+   
 }
 
 .seat {
     width: 50px; /* Đặt chiều rộng của ghế */
+    height: 50px; /* Đặt chiều cao của ghế bằng với chiều rộng */
+    font-size: 16px; /* Tùy chỉnh kích thước chữ nếu cần */
+    text-align: center;
+}
+.double-seat {
+    width: 100px; /* Đặt chiều rộng của ghế */
     height: 50px; /* Đặt chiều cao của ghế bằng với chiều rộng */
     font-size: 16px; /* Tùy chỉnh kích thước chữ nếu cần */
     text-align: center;
@@ -428,3 +435,15 @@ th:first-child, td:first-child {
 .money-inf p {
     font-size: 18px;
 }
+.border-vip {
+    border: 2px solid rgba(255, 215, 0, 0.5); /* Màu vàng nhạt cho ghế VIP */
+}
+
+.border-thuong {
+    border: 2px solid rgba(0, 123, 255, 0.5); /* Màu xanh nhạt cho ghế Thường */
+}
+
+.border-doi {
+    border: 2px solid rgba(40, 167, 69, 0.5); /* Màu xanh lá nhạt cho ghế Đôi */
+}
+
